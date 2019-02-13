@@ -1,10 +1,15 @@
 # Learning-in-the-open
+
 Keeping track of what I'm learning.
 
-[Programming](#Programming)
-[Design](#Design)
-[Writing](#Writing)
-[Personal Finance & Investing](#Personal-Finance-&-Investing)
+## Table of Contents
+
+- [Learning-in-the-open](#learning-in-the-open)
+  - [Table of Contents](#table-of-contents)
+  - [Programming](#programming)
+  - [Design](#design)
+  - [Writing](#writing)
+  - [Personal Finance & Investing](#personal-finance--investing)
 
 ## Programming
 
