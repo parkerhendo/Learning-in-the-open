@@ -8,13 +8,26 @@ Keeping track of what I'm learning.
   - [Table of Contents](#table-of-contents)
   - [Programming](#programming)
   - [Design](#design)
-  - [Writing](#writing)
-  - [Personal Finance & Investing](#personal-finance--investing)
 
 ## Programming
 
+- [ ] React/React Native
+- [ ] Electron
+- [ ] Advanced JavaScript
+- [ ] Swift
+- [ ] Python
+- [ ] Machine Learning
+- [ ] Artificial Intelligence
+
 ## Design
 
-## Writing
+- [ ] Typography
+- [ ] Accessibility
+- [ ] 3D
+- [ ] AR/VR Interfaces
+- [ ] Unity
+- [ ] Animation
 
-## Personal Finance & Investing
+<!-- ## Writing -->
+
+<!-- ## Personal Finance & Investing -->
