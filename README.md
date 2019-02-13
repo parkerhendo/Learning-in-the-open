@@ -1,10 +1,10 @@
-# Learning-in-the-open
+# Learning in the Open
 
 Keeping track of what I'm learning.
 
 ## Table of Contents
 
-- [Learning-in-the-open](#learning-in-the-open)
+- [Learning in the Open](#learning-in-the-open)
   - [Table of Contents](#table-of-contents)
   - [Programming](#programming)
   - [Design](#design)
