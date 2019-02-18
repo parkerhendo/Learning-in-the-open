@@ -8,26 +8,42 @@ Keeping track of what I'm learning.
   - [Table of Contents](#table-of-contents)
   - [Programming](#programming)
   - [Design](#design)
+  - [Music & Audio](#music--audio)
 
 ## Programming
 
+- [ ] Computer Science Fundamentals *(That stuff they teach you in school or whatever)*
 - [ ] React/React Native
+  - [ ] Redux
+- [ ] GraphQL
 - [ ] Electron
-- [ ] Advanced JavaScript
 - [ ] Swift
+  - [ ] UIKit
+  - [ ] Core Graphics & Animation
 - [ ] Python
-- [ ] Machine Learning
-- [ ] Artificial Intelligence
+- [ ] Machine Learning / Artificial Intelligence
+- [ ] Unity (C#)
 
 ## Design
 
 - [ ] Typography
-- [ ] Accessibility
-- [ ] 3D
-- [ ] AR/VR Interfaces
+  - [ ] Font Design
+  - [ ] Calligraphy
+- [ ] 3D Modeling & Rendering
+- [ ] AR/VR Interface Design
+  - [ ] Spacial Interfaces
+  - [ ] Interaction Methods
 - [ ] Unity
-- [ ] Animation
+  - [ ] Prototyping
+- [ ] Animation & Motion Graphics
+
+## Music & Audio
+
+- [ ] Ableton
 
 <!-- ## Writing -->
 
-<!-- ## Personal Finance & Investing -->
+<!-- ## Personal Finance & Investing
+
+- [ ] Taxes
+- [ ] Investing -->
