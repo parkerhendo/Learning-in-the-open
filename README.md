@@ -22,6 +22,7 @@ Keeping track of what I'm learning.
   - [ ] Core Graphics & Animation
 - [ ] Python
 - [ ] Machine Learning / Artificial Intelligence
+    - [ ] Image Recognition / Computer Vision 
 - [ ] Unity (C#)
 
 ## Design
