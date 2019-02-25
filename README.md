@@ -1,6 +1,6 @@
 # Learning in the Open
 
-Keeping track of what I'm learning.
+Keeping track of what I'm learning. I'll be adding my favorite courses and resources as I learn each topic.
 
 ## Table of Contents
 
@@ -8,7 +8,9 @@ Keeping track of what I'm learning.
   - [Table of Contents](#table-of-contents)
   - [Programming](#programming)
   - [Design](#design)
+    - [Tools](#tools)
   - [Music & Audio](#music--audio)
+  - [Math](#math)
 
 ## Programming
 
@@ -19,28 +21,37 @@ Keeping track of what I'm learning.
 - [ ] Electron
 - [ ] Swift
   - [ ] UIKit
+  - [ ] Auto Layout
   - [ ] Core Graphics & Animation
 - [ ] Python
 - [ ] Machine Learning / Artificial Intelligence
-    - [ ] Image Recognition / Computer Vision 
-- [ ] Unity (C#)
+  - [ ] Image Recognition / Computer Vision
+- [ ] C# for Unity
 
 ## Design
 
-- [ ] Typography
-  - [ ] Font Design
-  - [ ] Calligraphy
-- [ ] 3D Modeling & Rendering
+- [ ] Color
+  - [ ] Color Math & Science
 - [ ] AR/VR Interface Design
   - [ ] Spacial Interfaces
   - [ ] Interaction Methods
-- [ ] Unity
-  - [ ] Prototyping
 - [ ] Animation & Motion Graphics
+
+### Tools
+
+- [ ] Unity
+- [ ] Cinema 4D
+- [ ] Origami
+- [ ] Framer X
+- [ ] After Effects
 
 ## Music & Audio
 
 - [ ] Ableton
+
+## Math
+
+I don't even know where to start with this one...
 
 <!-- ## Writing -->
 
